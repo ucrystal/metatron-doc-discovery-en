@@ -3,8 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-메타트론 사용자 문서
+Metatron User Manual
 ===============================================
+
+.. toctree::
+	:name: lang_sel
+
+	한국어로 보기 <https://metatron-app.github.io/metatron-doc-discovery>
 
 .. toctree::
    :maxdepth: 2
@@ -18,13 +23,3 @@
    /discovery/part05/index
    /discovery/part06/index
    /discovery/part07/index
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: EX-pack for Anomaly Detection
-
-   /anomaly/part01/index
-   /anomaly/part02/index
-   /anomaly/part03/index
-   /anomaly/part04/index
